@@ -1,7 +1,7 @@
 # RL-Dominating
 > Implementation of "Learn to Solve Dominating Set Problem with GNN and Reinforcement Learning"
-> 
-![](\fig\vertex emb.png)
+
+![Model](fig/vertex_emb.png)
 
 ## Introduction
 `RL-Dominating` is an implementation of the approach described in the paper "Learn to Solve Dominating Set Problem with GNN and Reinforcement Learning". This project combines Graph Neural Networks (GNN) and Reinforcement Learning (RL) techniques to efficiently tackle the Dominating Set Problem, a well-known problem in graph theory and combinatorial optimization.
