@@ -32,7 +32,7 @@ If you use RL-Dominating in your research, please cite:
 ```
 @article{Chen2024dominating,
   title={Learn to Solve Dominating Set Problem with GNN and Reinforcement Learning},
-  author={Mujia Chen, Sihao Liu and Weihua He*},
+  author={Chen, Mujia and Liu, Sihao and He, Weihua*},
   journal={TBD.},
   year={2024+}
 }
